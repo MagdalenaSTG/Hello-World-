@@ -2,6 +2,3 @@
 my first repository
 ahahsf
 
-
-
-
